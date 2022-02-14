@@ -1,0 +1,3 @@
+Capitol 1: Introduccio a Git
+Capitol 2: flux de treball bàsic
+Capitol 3: Repositori
